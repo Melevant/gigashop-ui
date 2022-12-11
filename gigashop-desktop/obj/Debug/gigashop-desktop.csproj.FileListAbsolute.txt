@@ -1,0 +1,11 @@
+C:\Users\duple\source\repos\gigashop-desktop\gigashop-desktop\bin\Debug\gigashop-desktop.exe.config
+C:\Users\duple\source\repos\gigashop-desktop\gigashop-desktop\bin\Debug\gigashop-desktop.exe
+C:\Users\duple\source\repos\gigashop-desktop\gigashop-desktop\bin\Debug\gigashop-desktop.pdb
+C:\Users\duple\source\repos\gigashop-desktop\gigashop-desktop\obj\Debug\gigashop-desktop.csproj.AssemblyReference.cache
+C:\Users\duple\source\repos\gigashop-desktop\gigashop-desktop\obj\Debug\gigashop-desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\duple\source\repos\gigashop-desktop\gigashop-desktop\obj\Debug\gigashop_desktop.GigaShop_Main.resources
+C:\Users\duple\source\repos\gigashop-desktop\gigashop-desktop\obj\Debug\gigashop_desktop.Properties.Resources.resources
+C:\Users\duple\source\repos\gigashop-desktop\gigashop-desktop\obj\Debug\gigashop-desktop.csproj.GenerateResource.cache
+C:\Users\duple\source\repos\gigashop-desktop\gigashop-desktop\obj\Debug\gigashop-desktop.csproj.CoreCompileInputs.cache
+C:\Users\duple\source\repos\gigashop-desktop\gigashop-desktop\obj\Debug\gigashop-desktop.exe
+C:\Users\duple\source\repos\gigashop-desktop\gigashop-desktop\obj\Debug\gigashop-desktop.pdb
